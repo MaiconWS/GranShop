@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "98GDsipOxFaUExGRHGyHLmZKtfvR/puWkEqmgSJjlJE=",
+  "Source": "GranShopAPI",
+  "BasePath": "_content/GranShopAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
